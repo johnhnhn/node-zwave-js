@@ -28,7 +28,9 @@
 			"label": "Double Tap",
 			"maxNodes": 5,
 			"isLifeline": true
-		}
+		},
+		"3": {			    
+		    "LED Indicator": 1
 	},
 	"paramInformation": [
 		{
